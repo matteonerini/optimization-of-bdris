@@ -2,7 +2,7 @@
 
 This code package is related to the paper:
 
-M. Nerini, S. Shen and B. Clerckx, "[Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2211.06117)," in IEEE Transactions on Wireless Communications, 2023.
+M. Nerini, S. Shen and B. Clerckx, "[Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2211.06117)," in IEEE Transactions on Wireless Communications, 2023.
 
 If you use this code or any modified part of it, please cite our paper.
 
