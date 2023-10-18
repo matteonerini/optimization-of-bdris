@@ -12,4 +12,4 @@ Reconfigurable intelligent surfaces (RISs) allow controlling the propagation env
 
 ## Content of Code Package
 
-The file `main_Figi.m` returns the results needed to reproduce Fig. *i* in the paper, for *i* = 2, ..., 8.
+The file `main_Figi.m` reproduces Fig. *i* in the paper, for *i* = 2, ..., 8.
