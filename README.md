@@ -2,7 +2,7 @@
 
 This code package is related to the paper:
 
-M. Nerini, S. Shen and B. Clerckx, "[Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10155675)," in IEEE Transactions on Wireless Communications, 2023.
+M. Nerini, S. Shen, and B. Clerckx, "[Closed-Form Global Optimization of Beyond Diagonal Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10155675)," IEEE Trans. Wireless Commun., 2023.
 
 If you use this code or any modified part of it, please cite our paper.
 
